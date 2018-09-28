@@ -5,6 +5,6 @@
 
 This is the art service eureka server.
 
-Port Number: 8084
+Port Number: 8761
 
 Eureka Dashboard available at: http://localhost:8084/
