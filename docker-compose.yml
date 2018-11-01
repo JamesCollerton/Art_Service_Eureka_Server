@@ -1,7 +1,7 @@
 version: '3'
 
 services:
-    artservicesourcingdataservice:
+    artserviceeurekaserver:
         build: 
             context: ./
         ports:
