@@ -9,7 +9,7 @@ Detail | Value
 ------------ | -------------
 Port Number | 8761
 Spring Application Name | 
-ECR Repository Name |
+ECR Repository Name | art-service-eureka-server
 ECS Service/ Task Name |
 
 The Eureka Dashboard is available at: http://localhost:8761/.
