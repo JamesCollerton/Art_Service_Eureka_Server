@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/JamesCollerton/Art_Service_Eureka_Server.svg?token=KdiR1xs9jsHVYsSCNwx4&branch=master)](https://travis-ci.com/JamesCollerton/Art_Service_Eureka_Server)
 [![codecov](https://codecov.io/gh/JamesCollerton/Art_Service_Eureka_Server/branch/master/graph/badge.svg)](https://codecov.io/gh/JamesCollerton/Art_Service_Eureka_Server)
+[![Maintainability](https://api.codeclimate.com/v1/badges/265dca807d23c7f1719e/maintainability)](https://codeclimate.com/github/JamesCollerton/Art_Service_Eureka_Server/maintainability)
 
 # Art Service Eureka Server
 
@@ -9,7 +10,7 @@ Detail | Value
 ------------ | -------------
 Port Number | 8761
 Spring Application Name | 
-ECR Repository Name |
+ECR Repository Name | art-service-eureka-server
 ECS Service/ Task Name |
 
 The Eureka Dashboard is available at: http://localhost:8761/.
